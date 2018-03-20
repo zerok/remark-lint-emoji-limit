@@ -1,4 +1,4 @@
-# remark-lint-heading-length
+# remark-lint-emoji-limit
 
 This rule for [remark-lint][] enforces that there is at most one emoji in
 each paragraph:
