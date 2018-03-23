@@ -1,6 +1,6 @@
 {
   "name": "remark-lint-emoji-limit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Only at most one emoji per paragraph.",
   "main": "index.js",
   "author": "Horst Gutmann",
